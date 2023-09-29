@@ -569,6 +569,8 @@ body {
         display: block;
     }
 
+
+
     .img-gal,
     .galery-up,
     .galery-down {
@@ -673,6 +675,7 @@ body {
 
 @media (max-width: 1000px) {
 
+    
     .cards-holder {
         display: block;
     }
@@ -695,3 +698,4 @@ body {
         display: block;
     }
 }
+
